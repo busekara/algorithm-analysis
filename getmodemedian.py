@@ -41,8 +41,6 @@ def getModeMedian(list_1):
 getModeMedian([10, 6, 2, 6])
 
 
-# In[ ]:
-
 
 
 
